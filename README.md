@@ -1,5 +1,5 @@
 # Título Principal
-## Título Secundário
+## Teste de Clonagem de Repositório *Aula 3*
 
 Esse projeto é para aprender sobre Git e GitHub
 **Lista:**
